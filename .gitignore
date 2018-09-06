@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+data/__pycache__
+data/pima-indians-diabetes.data.txt
+
